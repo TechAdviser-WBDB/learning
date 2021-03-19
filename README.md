@@ -1,3 +1,3 @@
 # Bun venit!
 <br>
-- Spatiu de teste
+- <b>Spatiu de teste</b>
